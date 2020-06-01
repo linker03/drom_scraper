@@ -1,0 +1,41 @@
+[
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope", "frames": ["Хэтчбек 3 дв.                    "], "production_year": ["06.1998 - 12.1999"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope", "frames": ["Хэтчбек 3 дв.                    ", "Хэтчбек 3 дв.                    "], "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope veurope", "frames": ["Хэтчбек 3 дв.                    ", "Хэтчбек 3 дв.                    ", "Хэтчбек 3 дв.                    "], "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998", "06.1990 - 12.1993"]},
+{"manufacturer": "Mitsubishi Mitsubishi Mitsubishi", "model": "3000GT Airtrek Aspire", "region": "vjapan", "frames": ["Седан                    "], "production_year": ["08.1998 - 12.2002"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope veurope vusa", "frames": ["Хэтчбек 3 дв.                    ", "Хэтчбек 3 дв.                    ", "Хэтчбек 3 дв.                    ", "Открытый кузов                    "], "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998", "06.1990 - 12.1993", "01.1994 - 01.1996"]},
+{"manufacturer": "Mitsubishi Mitsubishi", "model": "3000GT Airtrek", "region": "vjapan", "frames": ["Джип/SUV 5 дв.                    "], "production_year": ["10.2002 - 10.2005"]},
+{"manufacturer": "Mitsubishi Mitsubishi", "model": "3000GT Airtrek", "region": "vjapan vjapan", "frames": ["Джип/SUV 5 дв.                    ", "Джип/SUV 5 дв.                    "], "production_year": ["10.2002 - 10.2005", "06.2001 - 09.2002"]}
+][
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope", "production_year": ["06.1998 - 12.1999"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope", "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope veurope", "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998", "06.1990 - 12.1993"]},
+{"manufacturer": "Mitsubishi Mitsubishi Mitsubishi", "model": "3000GT Airtrek Aspire", "region": "vjapan", "production_year": ["08.1998 - 12.2002"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope veurope vusa", "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998", "06.1990 - 12.1993", "01.1994 - 01.1996"]},
+{"manufacturer": "Mitsubishi Mitsubishi", "model": "3000GT Airtrek", "region": "vjapan", "production_year": ["10.2002 - 10.2005"]},
+{"manufacturer": "Mitsubishi Mitsubishi", "model": "3000GT Airtrek", "region": "vjapan vjapan", "production_year": ["10.2002 - 10.2005", "06.2001 - 09.2002"]}
+][
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope", "production_year": ["06.1998 - 12.1999"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope", "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope veurope", "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998", "06.1990 - 12.1993"]},
+{"manufacturer": "Mitsubishi", "model": "Aspire", "region": "vjapan", "production_year": ["08.1998 - 12.2002"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope veurope veurope vusa", "production_year": ["06.1998 - 12.1999", "01.1994 - 05.1998", "06.1990 - 12.1993", "01.1994 - 01.1996"]},
+{"manufacturer": "Mitsubishi", "model": "Airtrek", "region": "vjapan", "production_year": ["10.2002 - 10.2005"]},
+{"manufacturer": "Mitsubishi", "model": "Airtrek", "region": "vjapan vjapan", "production_year": ["10.2002 - 10.2005", "06.2001 - 09.2002"]}
+][
+{"region": "veurope", "production_year": ["06.1998 - 12.1999"]},
+{"region": "veurope", "production_year": ["01.1994 - 05.1998"]},
+{"region": "veurope", "production_year": ["06.1990 - 12.1993"]},
+{"region": "vjapan", "production_year": ["08.1998 - 12.2002"]},
+{"region": "vusa", "production_year": ["01.1994 - 01.1996"]},
+{"region": "vjapan", "production_year": ["10.2002 - 10.2005"]},
+{"region": "vjapan", "production_year": ["06.2001 - 09.2002"]}
+][
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope", "production_year": ["06.1998 - 12.1999"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope", "production_year": ["01.1994 - 05.1998"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "veurope", "production_year": ["06.1990 - 12.1993"]},
+{"manufacturer": "Mitsubishi", "model": "Aspire", "region": "vjapan", "production_year": ["08.1998 - 12.2002"]},
+{"manufacturer": "Mitsubishi", "model": "3000GT", "region": "vusa", "production_year": ["01.1994 - 01.1996"]},
+{"manufacturer": "Mitsubishi", "model": "Airtrek", "region": "vjapan", "production_year": ["10.2002 - 10.2005"]},
+{"manufacturer": "Mitsubishi", "model": "Airtrek", "region": "vjapan", "production_year": ["06.2001 - 09.2002"]}
+]
